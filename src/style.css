@@ -1,1 +1,22 @@
 @import "~bootstrap/dist/css/bootstrap.min.css";
+
+.carta {
+  border: 1px solid black;
+  height: 450px;
+  width: 300px;
+  border-radius: 2%;
+  background-color: white;
+}
+
+.cardSuite {
+  font-size: 80px;
+}
+
+.numbers {
+  font-size: 50px;
+}
+
+.boton {
+  font-size: 30px;
+  background-color: lightblue;
+}
